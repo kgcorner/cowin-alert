@@ -14,7 +14,7 @@ public class BaseTest {
             System.out.println("SimpleEmail Start");
 
             String smtpHostServer = "smtp.gmail.com";
-            final String emailID = "info@pixyfi.com";
+            final String emailID = "info@example.com";
             final String password = "***";
             String receipent = null;
             if(!data.equals("Jaagte raho")) {
