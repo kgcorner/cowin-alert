@@ -15,7 +15,7 @@ public class BaseTest {
 
             String smtpHostServer = "smtp.gmail.com";
             final String emailID = "info@pixyfi.com";
-            final String password = "Pink@12345";
+            final String password = "***";
             String receipent = null;
             if(!data.equals("Jaagte raho")) {
                  receipent = "tataighosh76@gmail.com,kumargauravgupta3@gmail.com,sudipcold@gmail.com" +
